@@ -1,4 +1,3 @@
 # Módulo de Pedidos e Entregas
 
-## Objetivo
-Este repositório tem como objetivo organizar a documentação e a Estrutura Analítica de Projeto (EAP) do sistema de controle de pedidos e entregas da nossa lojinha virtual.
+Repositório criado para gerenciar a documentação, a Estrutura Analítica de Projeto (EAP) e o planejamento do **Módulo de Pedidos e Entregas**, contemplando os requisitos, projeto, construção e entrega do sistema.
